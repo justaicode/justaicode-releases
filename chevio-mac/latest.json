@@ -2,16 +2,16 @@
   "app": "chevio-mac",
   "name": "Chevio",
   "version": "1.3.1",
-  "build": "132",
-  "date": "2026-09-18T14:00:50Z",
+  "build": "134",
+  "date": "2026-09-23T07:50:06Z",
   "platform": "macos",
   "minOS": "11.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.1-132/Chevio-1.3.1-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.1-134/Chevio-1.3.1-macOS.zip",
     "kind": "zip",
-    "size": 4141353,
-    "sha256": "37bcf7d64b895fbb412a60005ac6ceb53ee2880900daa3798fe2a4868a9c0307"
+    "size": 4141483,
+    "sha256": "16ea54916849ecd1d22c67db6230e3b908feaadc82cbafc0131d90c6705baa2d"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/chevio-mac-v1.3.1-132"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/chevio-mac-v1.3.1-134"
 }
