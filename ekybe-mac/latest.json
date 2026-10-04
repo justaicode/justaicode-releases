@@ -1,17 +1,17 @@
 {
   "app": "ekybe-mac",
   "name": "Ekybe",
-  "version": "1.0.539",
-  "build": "1.0.539",
-  "date": "2026-10-03T20:19:55Z",
+  "version": "1.0.541",
+  "build": "1.0.541",
+  "date": "2026-10-04T08:24:33Z",
   "platform": "macos",
   "minOS": "10.13",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/ekybe-mac-v1.0.539/Ekybe-1.0.539-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/ekybe-mac-v1.0.541/Ekybe-1.0.541-macOS.zip",
     "kind": "zip",
-    "size": 5103545,
-    "sha256": "906efa4fad095853b7159f226303f030ff6ad5c438d9308dadc9f1d4a660e05f"
+    "size": 5103706,
+    "sha256": "94ea1775893d6f7d12e293906e1d828409daf91fab906036c12fa6d5e95b1686"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/ekybe-mac-v1.0.539"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/ekybe-mac-v1.0.541"
 }
