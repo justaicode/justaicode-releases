@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Mailday for Mac</title>
+    <link>https://justaicode.app/download/mailday</link>
+    <item>
+      <title>Mailday 0.1.2 · build 3</title>
+      <pubDate>Wed, 07 Oct 2026 04:53:58 +0000</pubDate>
+      <description>In-app updates with automatic checking and downloading. See the downloaded version and build above Settings, then restart when ready. Drafts and attachments are saved before restarting. Settings stays at the bottom of the sidebar; the demo footer is removed. Includes the Google sign-in callback fix from 0.1.1.</description>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.2-3/Mailday-0.1.2-macOS.zip" length="1570458" type="application/octet-stream" sparkle:edSignature="xXFqkN0rx0FD2B7ZInviUD9Hjd4L8ypRn9OquS0vcTVKeaoeHFEaFCxZVRleAzuVkMTIXmG3+NgumExH//HDDA=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: cx62nXv3JaIYX1Hf3Gs8bTjvQ8D8FaQPuw/EECCrXIGbY0y8kLQaMlX38kSawOjQKueo8fbk0sxxFg0by0CBAw==
+length: 1466
+-->
