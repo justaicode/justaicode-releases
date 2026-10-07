@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.3 · build 4</title>
-      <pubDate>Wed, 07 Oct 2026 05:09:05 +0000</pubDate>
-      <description>Fixes the blank window when opening downloaded copies of Mailday and the inability to quit normally. Preserves drafts before quitting and adds interface recovery controls.</description>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <title>Mailday 0.1.4 · build 5</title>
+      <pubDate>Wed, 07 Oct 2026 07:17:31 +0000</pubDate>
+      <description>Gmail folder loading and older-message pagination, clean single-account sidebar, and empty startup without demo data.</description>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.3-4/Mailday-0.1.3-macOS.zip" length="1581012" type="application/octet-stream" sparkle:edSignature="0RKM8iIuxaBqMjVjwMp7aMHR7lkoaauEftalg7fO6W4VbT3crWUBowg/a1UlTnZ8b91wUZX9STM/qQwRYphUCg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.4-5/Mailday-0.1.4-macOS.zip" length="1596323" type="application/octet-stream" sparkle:edSignature="itkXhiD18LzRsBj6Fwf/o6BFdfqtMSMObOAzYfJVGWUuujtGKFjSi3znwTUwn4M/EqkawVqCRJMmTz+z+Sl0Dg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TCY6thsH6u8ukYO/fY62ccqObDhyycEgAC2f/jFbqdpLAFA+dV2CzvcQ9WcylqNNvTcoE4+2hn3chr1irjq4BQ==
-length: 1326
+edSignature: 3NCAPtSwtJ4d03me9iklzkvp/1wccDmqT2qTM8l06farcO52uIAB3dpe67/EK5VKheWwsT8ItYNr0zehVIMkAw==
+length: 1272
 -->
