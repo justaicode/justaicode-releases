@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.5 · build 6</title>
-      <pubDate>Wed, 07 Oct 2026 08:14:13 +0000</pubDate>
-      <description>Four Soft Fold app icon colours with five sun rays. Peach is the default; change it in Settings → Appearance.</description>
-      <sparkle:version>6</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <title>Mailday 0.1.6 · build 7</title>
+      <pubDate>Wed, 07 Oct 2026 09:14:24 +0000</pubDate>
+      <description>Large Refresh inbox icon beside the inbox title, with progress and error feedback. Compose stays on the bottom-right +.</description>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.5-6/Mailday-0.1.5-macOS.zip" length="5368280" type="application/octet-stream" sparkle:edSignature="FFajGntWIZORPssM7ws6Mi0SEfj9nBBfCvJVsc/JO5XtWkYrTYV37qE/UDrQieIneiwL9y622ZEsn5MDlvc6Dw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.6-7/Mailday-0.1.6-macOS.zip" length="5369019" type="application/octet-stream" sparkle:edSignature="kUeImJbVkWVZw39y0TofcbLHti4p15z7UiywLkpp6UBUXAfftOb2j7amb695uoa1XaKEreqfZgyXVWeEaQGECQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: G8AMMl0hA2A3p9huBSBOOMlz8bBiEAZDR367XTyMS2sCrtbPXmVs8yBFn6BWW1/ofUcDWiuUuXK9YSi/ZEtoAQ==
-length: 1266
+edSignature: gYKEjQyqN6j9okrPAbh9fjF3uv4IuSntWWmmWlQ+bPtnihJCgNWuRWsEfqzP/kjtSjY80IEY2bHx8S08JDm7BA==
+length: 1274
 -->
