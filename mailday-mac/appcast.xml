@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.4 · build 5</title>
-      <pubDate>Wed, 07 Oct 2026 07:17:31 +0000</pubDate>
-      <description>Gmail folder loading and older-message pagination, clean single-account sidebar, and empty startup without demo data.</description>
-      <sparkle:version>5</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+      <title>Mailday 0.1.5 · build 6</title>
+      <pubDate>Wed, 07 Oct 2026 08:14:13 +0000</pubDate>
+      <description>Four Soft Fold app icon colours with five sun rays. Peach is the default; change it in Settings → Appearance.</description>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.4-5/Mailday-0.1.4-macOS.zip" length="1596323" type="application/octet-stream" sparkle:edSignature="itkXhiD18LzRsBj6Fwf/o6BFdfqtMSMObOAzYfJVGWUuujtGKFjSi3znwTUwn4M/EqkawVqCRJMmTz+z+Sl0Dg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.5-6/Mailday-0.1.5-macOS.zip" length="5368280" type="application/octet-stream" sparkle:edSignature="FFajGntWIZORPssM7ws6Mi0SEfj9nBBfCvJVsc/JO5XtWkYrTYV37qE/UDrQieIneiwL9y622ZEsn5MDlvc6Dw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3NCAPtSwtJ4d03me9iklzkvp/1wccDmqT2qTM8l06farcO52uIAB3dpe67/EK5VKheWwsT8ItYNr0zehVIMkAw==
-length: 1272
+edSignature: G8AMMl0hA2A3p9huBSBOOMlz8bBiEAZDR367XTyMS2sCrtbPXmVs8yBFn6BWW1/ofUcDWiuUuXK9YSi/ZEtoAQ==
+length: 1266
 -->
