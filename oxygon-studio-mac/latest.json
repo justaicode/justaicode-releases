@@ -13,5 +13,11 @@
     "size": 164523,
     "sha256": "8c749d3624e91c9f94abbe13040bb9a6fda36d419d01bdcf6c7d1d51e059f035"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oxygon-studio-mac-v1.0.8-8"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oxygon-studio-mac-v1.0.8-8",
+  "dmg": {
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oxygon-studio-mac-v1.0.8-8/OxygonStudio-1.0.8-macOS.dmg",
+    "kind": "dmg",
+    "size": 626966,
+    "sha256": "78b2cf9708c3e999a9b08b56c524445be629516f81fb919f127815a85e014a37"
+  }
 }
