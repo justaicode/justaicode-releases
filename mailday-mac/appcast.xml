@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.25 · build 26</title>
-      <pubDate>Thu, 08 Oct 2026 14:14:01 +0000</pubDate>
-      <description>To and Cc now suggest addresses from the sending account’s downloaded correspondence. Control this in Settings &gt; Composer.</description>
-      <sparkle:version>26</sparkle:version>
-      <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+      <title>Mailday 0.1.26 · build 27</title>
+      <pubDate>Thu, 08 Oct 2026 14:31:16 +0000</pubDate>
+      <description>Search Settings and jump to any matching option. App-icon badges support unread or whole Inbox counts with per-account inclusion and system permission.</description>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.25-26/Mailday-0.1.25-macOS.zip" length="6385408" type="application/octet-stream" sparkle:edSignature="WMtSASAFBQ2+6Q5qmTv/UnTCsOrH92hTD1zkmsCFQl6FrVsuEBjG47F5R0AL8bJ8MlgkRy0q0o6ECqlXQZVhBA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.26-27/Mailday-0.1.26-macOS.zip" length="6404034" type="application/octet-stream" sparkle:edSignature="I+7x9P4JgV8tZXccqhLM5F0dwNdLrVlqOdNlZd+6Me90pcbKKIj9lXR4Ro5zD9xdkI+Z8WYkndijDBozADq/BA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: g8uXOouZ91L059+wDyrXN5ecX2wfRvsLi0/V3mJNh9p9gKUFHUgnz3ziWqCQICpGOsDJEgPJQKeHHfEbJyfcAQ==
-length: 1289
+edSignature: aVutlKVzAA41EHf1WJRrdRUWcel20pRHmVGpEWrQhRsvs0f61cYMDv5HQG0UOffaSF6cxjKCYJMA3mS8j7q9CA==
+length: 1313
 -->
