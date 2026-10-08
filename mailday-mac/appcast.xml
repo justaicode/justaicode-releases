@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.28 · build 29</title>
-      <pubDate>Thu, 08 Oct 2026 14:57:04 +0000</pubDate>
-      <description>Calendar event addresses now open in your chosen Apple Maps or Google Maps app after an explicit click. Newly refreshed events retain their location.</description>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <title>Mailday 0.1.29 · build 30</title>
+      <pubDate>Thu, 08 Oct 2026 15:08:03 +0000</pubDate>
+      <description>Default alerts for new Calendar events, actual reminder details and original-calendar editing.</description>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.28-29/Mailday-0.1.28-macOS.zip" length="6411948" type="application/octet-stream" sparkle:edSignature="3WBtny31p+vVYRc7RNIcur9aWUv/x9gwJ6YTR6YPm+IDVp1GJf1SHFu+ckfVgn5VCtJPtkLOV3R+cboWmTGkBw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.29-30/Mailday-0.1.29-macOS.zip" length="6418719" type="application/octet-stream" sparkle:edSignature="GzaloLyDvKUbEMvZvSPr9suJSRZHoi8WXnWR9QRsxz5PVM+oq7rlltWYHCO0uSccj6Kpt7h1YWwJzT7s+TnYBw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QEtuDcRmvb6T2MeQfkttR671/RfGes+wCfKw9dlvWqHR/THKLjLupMIYQqzm1pO0c0A2cjH9jrpxvtss5llQCw==
-length: 1311
+edSignature: ZPwIhWrqXj5cyecyBMQM3nV/Ce+bXiLgXeYy7cUI+XLH8+dvCAm7iQXMAeSIiU8KkXaR0zJzH6Df4mGsmufRBA==
+length: 1256
 -->
