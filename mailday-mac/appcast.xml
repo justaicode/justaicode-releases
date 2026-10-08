@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.45 · build 46</title>
-      <pubDate>Thu, 08 Oct 2026 21:04:31 +0000</pubDate>
-      <description>Bulk action confirmation, Gmail label selection and Send again.</description>
-      <sparkle:version>46</sparkle:version>
-      <sparkle:shortVersionString>0.1.45</sparkle:shortVersionString>
+      <title>Mailday 0.1.46 · build 48</title>
+      <pubDate>Thu, 08 Oct 2026 21:49:45 +0000</pubDate>
+      <description>Independent composer and conversation windows on Mac and iPad.</description>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.1.46</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.45-46/Mailday-0.1.45-macOS.zip" length="7058151" type="application/octet-stream" sparkle:edSignature="mnzdvGfLGIrEr/CJePzotTLqgu0+ay2Iz1DOMNR1pul4u7PFT7LuM6cxWHA/lwZQGISu+Sslh9x0mSm1n3CFDQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.46-48/Mailday-0.1.46-macOS.zip" length="7114885" type="application/octet-stream" sparkle:edSignature="LWfLHr8iCGHv9n9xaAgjNOw2zTD5P1NBaogQk7w/kZVAKWcDA8eQSPZRJIl2M20FBGhrxkcTZsB0/fLY2i5JCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: sWpNMp4ZZVC31gyEcyCsPNHgGYXCTUXf/eDxMRYwGN9Z5Kub2VocIku2QKIi1hRj6JQlyntKBH3zlhco11DZCg==
-length: 1225
+edSignature: my79F3zrVFGCp0RpUHkSESIhRnFdhMk+ZuAGYgHfOUQ7Jpb8p0yKhGnCfKxic1JZGmUdOV8o6wbdqOXDvMGrBA==
+length: 1224
 -->
