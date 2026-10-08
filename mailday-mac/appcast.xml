@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.37 · build 38</title>
-      <pubDate>Thu, 08 Oct 2026 18:43:38 +0000</pubDate>
-      <description>Appearance: Full Screen, Split View and a saved inbox switch. Compact and Comfortable full-width mail lists. Cloud login stays disabled.</description>
-      <sparkle:version>38</sparkle:version>
-      <sparkle:shortVersionString>0.1.37</sparkle:shortVersionString>
+      <title>Mailday 0.1.38 · build 39</title>
+      <pubDate>Thu, 08 Oct 2026 18:58:09 +0000</pubDate>
+      <description>New Sounds settings: choose new-email, sent and error audio, or mute Mailday. Includes deliberate previews and saved preferences.</description>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>0.1.38</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.37-38/Mailday-0.1.37-macOS.zip" length="6834726" type="application/octet-stream" sparkle:edSignature="+1svnxFoC05FlPa0defQkAj47OJIVKj2Qxmk2kUuKmlg/MKv3ZYYChYES4VYrGLxBZhicXkkb04Ey+WBRasDDA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.38-39/Mailday-0.1.38-macOS.zip" length="6878242" type="application/octet-stream" sparkle:edSignature="gElKB3JJbzytRb6lXznPdh4fBroyKIfxs5jhzKVPTgNeWRk+OXpId4Nqf5MOgXRQd29XDJlh2R1YnsOgZNInAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zXxZpAkVnlIHZcU4IFF9OkT4j2L2yvIY1fCFzofCuMloWk2r5GwQ7hoUlboh+ox72rzXogXrKOyc4Zb3Ap+2Cw==
-length: 1298
+edSignature: S2+VeZP6zd1T4NIM6kv2pnc2PlqW9k7GBMOJhfpOPSl6y98oniCQ1oxmD52eFCWN8HB7W0rVRWmCUl0L6CKiDw==
+length: 1291
 -->
