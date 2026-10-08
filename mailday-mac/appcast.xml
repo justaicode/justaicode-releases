@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.43 · build 44</title>
-      <pubDate>Thu, 08 Oct 2026 20:30:52 +0000</pubDate>
-      <description>Device-local no-reply reminders after confirmed sends. Check and manage reminders in Mailday while it runs or after reopening.</description>
-      <sparkle:version>44</sparkle:version>
-      <sparkle:shortVersionString>0.1.43</sparkle:shortVersionString>
+      <title>Mailday 0.1.44 · build 45</title>
+      <pubDate>Thu, 08 Oct 2026 20:44:23 +0000</pubDate>
+      <description>Optional Mac menu-bar Agenda with Today/Tomorrow, saved calendars, meeting links and calendar-only refresh.</description>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.1.44</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.43-44/Mailday-0.1.43-macOS.zip" length="6980350" type="application/octet-stream" sparkle:edSignature="Q9TXFxhpxthcM+t+Txz247HKiIiIv82heB4t/CbhRf0QdgRoOwNNRm5VX70kddkMpkFLxCN/ICtz2Cxz4zG9DQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.44-45/Mailday-0.1.44-macOS.zip" length="7043195" type="application/octet-stream" sparkle:edSignature="Vq0iaUNjYsmqCUhfT+0k4sGqIVjtLk+sucG0Egqz9VoEQ3uxRc27D076bZFfh7nMErJ+6v6PXNaV23tnnHoFCA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PboHzZVZA+NdsibnFJ+cT5pZgqUekgQqIqX/4pwSum8adgbKRf9HMiGUZx64yJLkN78ql90E9MNkEdohIbRtDA==
-length: 1288
+edSignature: +RNZx75DcGJgPnDv61dSZ2nRtBjSB3m8mnoSSF80QSK3ny5OvMdn7ErO5dMl3Ujf/xV5wSSF840hHhi6ccX1Dg==
+length: 1269
 -->
