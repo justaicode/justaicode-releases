@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.20 · build 21</title>
-      <pubDate>Thu, 08 Oct 2026 13:16:57 +0000</pubDate>
-      <description>Calendar preferences now save and control declined events, week start, navigation, visible hours and new-event duration.</description>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <title>Mailday 0.1.21 · build 22</title>
+      <pubDate>Thu, 08 Oct 2026 13:26:42 +0000</pubDate>
+      <description>Choose a default sending account and assign more keyboard actions in Settings.</description>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.20-21/Mailday-0.1.20-macOS.zip" length="6372682" type="application/octet-stream" sparkle:edSignature="eWNwNii3raGGGoMeJ6oCe2gRglOoJpdtBzHg/lQmf+43aEbA+0bzTMTYB0aWOiWtefHsKsRW+/rgeKPhreBhAw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.21-22/Mailday-0.1.21-macOS.zip" length="6373876" type="application/octet-stream" sparkle:edSignature="gS8BbQHLfdnRaAVhpMaUzojVrI9sz0ncm+0AOS0RSqVwFYSrd2aDTVmY46VNmq12sUHZf68lO3OjzSnQApb3Aw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IMAEvsFbKwvXX8MOZktUhVgYKPhEKyM9mLwgVjoBKtA9KbMnRaz5LF+xRu0wz8CDgrcscI3kJa9oiO6orIRKBw==
-length: 1282
+edSignature: wcSeje1FWqyupITDyavh04WIkPB7F0FBbP69ilrch7iq7eugiW4QVj9tMwzH117WY2P+a7XPWcVfKk6t7dM+BQ==
+length: 1240
 -->
