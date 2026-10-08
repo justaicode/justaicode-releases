@@ -5,22 +5,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.12 · build 13</title>
-      <pubDate>Thu, 08 Oct 2026 09:22:45 +0000</pubDate>
-      <description># Mailday 0.1.12
+      <title>Mailday 0.1.13 · build 14</title>
+      <pubDate>Thu, 08 Oct 2026 10:21:46 +0000</pubDate>
+      <description>Mailday 0.1.13 · build 14
 
-- Add account now opens with two large, clearly labelled cards: Gmail and Other email (IMAP).
-- Provider logos, short descriptions and guidance for custom domains make the connection options easier to find.
-- Choose a card to open its connection form, and go back to switch services.
-- Existing Gmail and IMAP/SMTP connection, security and cancellation behaviour is retained.
+- Smaller account badges and tighter desktop sidebar spacing.
+- Drag accounts into order on Mac, or use Move up/down in Settings → Accounts. Option/Alt + Up/Down also works on a focused sidebar account. The order is saved on this device.
+- Connecting an account now shows a live elapsed timer and the current check.
+- A clear “Account connected” confirmation appears as soon as the account is saved. The first mail download has its own progress and can be stopped without disconnecting the account.
+- Connection success and errors stay visible below the form on Mac, iPhone and iPad.
+
+Account ordering does not sync between devices. Touch targets remain large on iPhone and iPad. Server and first-download duration still depends on the provider and mailbox size.
 </description>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.12-13/Mailday-0.1.12-macOS.zip" length="6162636" type="application/octet-stream" sparkle:edSignature="j46a83ZqbIV4qYXkWvEZQZqGStMt//0bOX0wMN9oRZ8BnDx5wOLJm/sGQ35+UlGrLTBGlFUOhAlbHbSTzpFeCQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.13-14/Mailday-0.1.13-macOS.zip" length="6175126" type="application/octet-stream" sparkle:edSignature="FjDllPw2nNCtpBoY+lW7yiD3qyehQbMTNKl8zRLnEBuP6jWR9jd7P5qnffJEr7bsRIJB7MzVTYmoiBYfxVGSAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AQ45w3LfNPmjP3HsTem0xLL9hWGemAc85dl4Clt3SWTO7kCjqLf6+6aQS+iIfbmqx77vDPoVIe6c8oCo1FJ3AQ==
-length: 1556
+edSignature: bgNZ738MyxUTPCPSmruztgUXKef1nt95Uwwn1OjYy56ZAMNep1bYk12avpqlcFgfTKU0/bohDIcMcBLSDb5oCQ==
+length: 1959
 -->
