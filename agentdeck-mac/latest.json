@@ -2,16 +2,16 @@
   "app": "agentdeck-mac",
   "name": "Agentrix",
   "version": "0.2.0",
-  "build": "298",
-  "date": "2026-10-07T19:45:13Z",
+  "build": "300",
+  "date": "2026-10-08T03:51:15Z",
   "platform": "macos",
   "minOS": "13.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v0.2.0-298/Agentrix-0.2.0-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v0.2.0-300/Agentrix-0.2.0-macOS.zip",
     "kind": "zip",
-    "size": 130224236,
-    "sha256": "01d4aafdbff920b1ab8289aa24b6fc3b2ad40489ddcb5cfe604c1e0fffdc6d0b"
+    "size": 130229135,
+    "sha256": "da2d0b194081baf62cea173afa621bec11983c6f4cfd23dd8f224b41e97b729a"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v0.2.0-298"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v0.2.0-300"
 }
