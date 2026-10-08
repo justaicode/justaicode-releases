@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.7 · build 8</title>
-      <pubDate>Wed, 07 Oct 2026 13:03:10 +0000</pubDate>
-      <description>Improved HTML email reading and full cached-message search, with the compact Mac header, Settings categories and safer update recovery.</description>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <title>Mailday 0.1.8 · build 9</title>
+      <pubDate>Thu, 08 Oct 2026 06:11:10 +0000</pubDate>
+      <description>Account settings and connection cancellation, Reply all and message actions, sender pictures with account rings, and safer sending and draft storage.</description>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.7-8/Mailday-0.1.7-macOS.zip" length="5490240" type="application/octet-stream" sparkle:edSignature="i7hTN7lbT97PisXv1LPiwu+f9ea5HI2OQ9gpzn3srxA6NsuDZk4tcZuewYqOXRZBms4BeNFCRWNIyxwvrxQqCw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.8-9/Mailday-0.1.8-macOS.zip" length="6073684" type="application/octet-stream" sparkle:edSignature="Sa9dDQX7gug7CxyepGYOT5PdgiDOT5/3gXd/wPl5DB9Z+MvEXHfEZD4GsAibL/lbxhegUZobDKUP7r6xSsb4DA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3nmzcr1YrXQmzxPpXDzZrSTLa8+3ng8ioPEaV64yaiY9teE15px174CqP76U2Yw/JYFWX9RS28IQKF11Ll4vCg==
-length: 1290
+edSignature: NWvEH8q4BuLjPrqJLAQrFsmC2IB5PUKxsWlUYY4mNHGxd8J8tIVPhxtRhBEkXJB14jd6SR6LqiW6GeEe2cJgAg==
+length: 1304
 -->
