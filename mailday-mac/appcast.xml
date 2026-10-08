@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.17 · build 18</title>
-      <pubDate>Thu, 08 Oct 2026 12:49:10 +0000</pubDate>
-      <description>Appearance now supports saved account colors, avatar visibility and one, two, three or no message preview lines. Existing mail, selection and unfinished drafts are preserved.</description>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <title>Mailday 0.1.18 · build 19</title>
+      <pubDate>Thu, 08 Oct 2026 12:56:27 +0000</pubDate>
+      <description>Choose what happens after archive/delete and whether archived mail stays pinned.</description>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.17-18/Mailday-0.1.17-macOS.zip" length="6364263" type="application/octet-stream" sparkle:edSignature="FwY6KNfzPCftMMSK8Eck7ggZJdfp5CqFN6SsoHZzwuLkX8V+rPdTCPGWYCmLekhoIJlVjO4ClsN5qiKyz8dDAQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.18-19/Mailday-0.1.18-macOS.zip" length="6365269" type="application/octet-stream" sparkle:edSignature="B+vvOaAyTeOMhISURAKAuT14E3Xl+rP6OowyJrKYkhkb6zEnKwbDyZlG9zdAvruDj9IiW+ULB+RhWSSn3RtpDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iDw1jATgpJwDY0v2RCA1rN+gEU+++nrr/VQyKkhZ4hDAXRYlbmchQCDa2um7dk3DZO/b/Yn3WcmCATiLRoDkBw==
-length: 1336
+edSignature: y2x+sE0i1/JmMd8CG719VEchZt37baIR40zAyd4+6Icp5YyhiOp2aNdlebEau10pvoN4GGgtvns3Sj9WmRaLCw==
+length: 1242
 -->
