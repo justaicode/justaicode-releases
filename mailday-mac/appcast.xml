@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.35 · build 36</title>
-      <pubDate>Thu, 08 Oct 2026 16:27:05 +0000</pubDate>
-      <description>Configurable touch and trackpad swipes, with captured row actions and cancellation.</description>
-      <sparkle:version>36</sparkle:version>
-      <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
+      <title>Mailday 0.1.36 · build 37</title>
+      <pubDate>Thu, 08 Oct 2026 18:32:58 +0000</pubDate>
+      <description>Conversation history with collapsible older messages. General now includes Minimize old emails in thread view. Cloud login remains disabled pending service setup.</description>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.1.36</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.35-36/Mailday-0.1.35-macOS.zip" length="6509043" type="application/octet-stream" sparkle:edSignature="nk8qSdNXbH9aGhKI+gdTRf1LqnnM4seSqHteZs1mJbRuM96kWXbI3HxlAwdQCkROyPi/OJvE/Ue9sDCZSuRKAw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.36-37/Mailday-0.1.36-macOS.zip" length="6830202" type="application/octet-stream" sparkle:edSignature="AxzzjqvwJU5dzEjxLOKfek8ON5Py1rq54VQ94MVYj1sNUbpGxgPK7eYpYmm1te8CZt6DdOf/hy1mp+xTLQv5Bg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oUzOblRAK4g8J2Ppe9qh+qgixCPRcA/5/IqWCbKSrCwM0Sq/BLWUFXdWSSJGHEdqeTU7OuD5sRlBaLBLPw2SAw==
-length: 1245
+edSignature: QzglHWTXQkFtjqTiLm4V3sHcxeQtVCF4UM0H2mnbCPhhtYr9QHoIwamnpLtG0gfvq4+CkycqVBUpl+S2aTHVAA==
+length: 1324
 -->
