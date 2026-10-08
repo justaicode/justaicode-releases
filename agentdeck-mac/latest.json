@@ -13,5 +13,11 @@
     "size": 130233103,
     "sha256": "89e5c806ecdcb2103bb23d87d7d6fadd4b1d50578c47e79e2bc53d9f6ebda216"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v0.2.0-305"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v0.2.0-305",
+  "dmg": {
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v0.2.0-305/Agentrix-0.2.0-macOS.dmg",
+    "kind": "dmg",
+    "size": 142420359,
+    "sha256": "3ca977c4a0b58fa55f0aba44696d8765ae59db5599c52a0389d8182f8b2af6b2"
+  }
 }
