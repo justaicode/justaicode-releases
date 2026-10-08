@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.34 · build 35</title>
-      <pubDate>Thu, 08 Oct 2026 16:07:28 +0000</pubDate>
-      <description>Connected calendar controls, real default calendar selection and calendar-only Force Sync.</description>
-      <sparkle:version>35</sparkle:version>
-      <sparkle:shortVersionString>0.1.34</sparkle:shortVersionString>
+      <title>Mailday 0.1.35 · build 36</title>
+      <pubDate>Thu, 08 Oct 2026 16:27:05 +0000</pubDate>
+      <description>Configurable touch and trackpad swipes, with captured row actions and cancellation.</description>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.1.35</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.34-35/Mailday-0.1.34-macOS.zip" length="6502958" type="application/octet-stream" sparkle:edSignature="AsoAr08424mMl1PssdyV9UVBaMrYOXUI8baWi1yftwvcFPzFoFnR1I26NRnIk1BOP3SK7P/1ZsLdxpeQO6VhBw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.35-36/Mailday-0.1.35-macOS.zip" length="6509043" type="application/octet-stream" sparkle:edSignature="nk8qSdNXbH9aGhKI+gdTRf1LqnnM4seSqHteZs1mJbRuM96kWXbI3HxlAwdQCkROyPi/OJvE/Ue9sDCZSuRKAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zxC6N6ya0cc3QcFr+6hzj8pmWjfB1Xgcf0GQQFdHWTch0EznaJaSVO/qTu680VI9UaFAgYSkccWDwnlty2+zDQ==
-length: 1252
+edSignature: oUzOblRAK4g8J2Ppe9qh+qgixCPRcA/5/IqWCbKSrCwM0Sq/BLWUFXdWSSJGHEdqeTU7OuD5sRlBaLBLPw2SAw==
+length: 1245
 -->
