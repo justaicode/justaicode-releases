@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.1.39 · build 40</title>
-      <pubDate>Thu, 08 Oct 2026 19:04:31 +0000</pubDate>
-      <description>Auto BCC now saves per-account defaults and shows editable Bcc before sending. Existing drafts keep their recipients. Includes Sounds settings.</description>
-      <sparkle:version>40</sparkle:version>
-      <sparkle:shortVersionString>0.1.39</sparkle:shortVersionString>
+      <title>Mailday 0.1.40 · build 41</title>
+      <pubDate>Thu, 08 Oct 2026 19:25:05 +0000</pubDate>
+      <description>All-day events, multi-day editing and device calendar alerts. Includes Sounds and Auto BCC.</description>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.1.40</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.39-40/Mailday-0.1.39-macOS.zip" length="6882182" type="application/octet-stream" sparkle:edSignature="OXdio/ZVdkhzEDyHxEetD47WbJr9bGX0q9onALcDSrMbGjcwMPZAa4yJEDGVERnEyV3sYB2U5n/85G4Enp0bBg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.1.40-41/Mailday-0.1.40-macOS.zip" length="6932143" type="application/octet-stream" sparkle:edSignature="DMy6/ZZ8b/u455pCdvVDjMf4HoTePBGUGZpLSpw8FSYhAjUKUs5MvTbvupg4lTFmvTEvjNnZYdDqfUBGzNjsCA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ir1jgidgJi5KQhln9AWYGXuxrGSgOIBuwxzqKT4mQyFRes+cQvdERQ7SAXgErvXL2th71ZNEnIrzH63rO/o1AA==
-length: 1305
+edSignature: 11lw3VNozlwhuouD/1zuJmcPWqad2vFepBgU2diGHU4W5BPBUquoP99Ct05Kp1p6cU96xICZ0eSNIf36Hp+FAA==
+length: 1253
 -->
