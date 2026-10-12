@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.10 · build 65</title>
-      <pubDate>Mon, 12 Oct 2026 14:56:25 +0000</pubDate>
-      <description>Whole-mailbox archive and search, Zoom links open directly, notifications on by default.</description>
-      <sparkle:version>65</sparkle:version>
-      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <title>Mailday 0.2.11 · build 66</title>
+      <pubDate>Mon, 12 Oct 2026 20:10:47 +0000</pubDate>
+      <description>Native invitation card with your day, emails recoloured in Dark, scrolling over email content, refresh icon fix.</description>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.10-65/Mailday-0.2.10-65.zip" length="8484256" type="application/octet-stream" sparkle:edSignature="1vvDzkUMKx5eTeo9hqRwUQgY3XlQXsbCIrSh42V6wE5EXSVukGZCv3I7hwyRRfOSN+G2DXEwss7Kkdp3AohOBg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.11-66/Mailday-0.2.11-66.zip" length="8561469" type="application/octet-stream" sparkle:edSignature="SqWQfTcXAbzTaOQhtskZj6QRyMFU5B6IzZTGTm2bRVHtrYBDGMMJmmrR/Kg5qlKZTg685XnpK/PaGHCMDlegBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gAKDSk9WQ2A5UXrwG2C9Wo2WhIUdWgc2ERsDNH3nlVu5riBMdgNLjTxF/bG8urgJv/T6vtxzuZ2VZgPdsBESCg==
-length: 1247
+edSignature: 8xuWYYgIPyVB7y6t0FIVcIQNO/RgqA/73/HZh4GOC54sHP+KffCSEkBZq5PwPJEbiJIP+7i+4nDUTsgRlaZtBg==
+length: 1271
 -->
