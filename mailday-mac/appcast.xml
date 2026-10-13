@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.13 · build 68</title>
-      <pubDate>Tue, 13 Oct 2026 05:09:51 +0000</pubDate>
-      <description>Blocking moves all Inbox emails from that sender or domain to Trash.</description>
-      <sparkle:version>68</sparkle:version>
-      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <title>Mailday 0.2.14 · build 69</title>
+      <pubDate>Tue, 13 Oct 2026 06:33:33 +0000</pubDate>
+      <description>Message menu keeps its place and every item does what it says; messages no longer vanish.</description>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.13-68/Mailday-0.2.13-68.zip" length="8568046" type="application/octet-stream" sparkle:edSignature="4MY4xh+2lNJ441mlyk+zynsMsgZ/Yud7pf3J5O0R6yB+oOnfHNMotFfahTBqfMplj4pk0fmdBV4shZ+aDuzxCQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.14-69/Mailday-0.2.14-69.zip" length="8574884" type="application/octet-stream" sparkle:edSignature="l213qAfps4as0P8eqjEseDxrKDznpVBIcE04eZybCJQ0w7CY+MjkGccBmlWh7Y3XvrNEP18LUjqggLpxj/FIBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: v37Gjyes9JRB5jXTm6aJeK6Ox+CZnVAbXB1u3mvWyMrqwlRbtoE4hr4I2BUgWvIk/3AlMkcVhvKaFxzV1PAnCQ==
-length: 1227
+edSignature: ta0m5i7qyYOCVNiph1LPCNqMDBcjj+r51m+JKm6RMKhu8P2ZKnDbEKuzC97z23nXUa0sK21hEfvMCHgUR8A1DA==
+length: 1248
 -->
