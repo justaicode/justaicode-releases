@@ -1,17 +1,17 @@
 {
   "app": "mailday-mac",
   "name": "Mailday",
-  "version": "0.2.23",
-  "build": "78",
-  "date": "2026-10-13T09:50:29.508395Z",
+  "version": "0.2.25",
+  "build": "80",
+  "date": "2026-10-13T10:27:34.479492Z",
   "platform": "macos",
   "minOS": "14.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.23-78/Mailday-0.2.23-78.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.25-80/Mailday-0.2.25-80.zip",
     "kind": "zip",
-    "size": 8671480,
-    "sha256": "36da8594f94b5301ca4e06f3256fab4ce07faae90765a2ffaf789726fdd83766"
+    "size": 8673577,
+    "sha256": "647ef9137ed87bdc2d8bdfccfef463a05621b16e65e575aa80d70ebfe848c9e8"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/mailday-mac-v0.2.23-78"
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/mailday-mac-v0.2.25-80"
 }
