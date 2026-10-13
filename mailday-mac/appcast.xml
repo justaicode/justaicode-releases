@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.32 · build 87</title>
-      <pubDate>Tue, 13 Oct 2026 12:59:50 +0000</pubDate>
-      <description>Backspace deletes again; readable Account folders label.</description>
-      <sparkle:version>87</sparkle:version>
-      <sparkle:shortVersionString>0.2.32</sparkle:shortVersionString>
+      <title>Mailday 0.2.34 · build 89</title>
+      <pubDate>Tue, 13 Oct 2026 14:12:19 +0000</pubDate>
+      <description>Smart Group from an email, roomier calendar, profile bar, new folders, fixes.</description>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>0.2.34</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.32-87/Mailday-0.2.32-87.zip" length="8706548" type="application/octet-stream" sparkle:edSignature="w055jV88z1Qwcl3LWya8lrCs5K/pKfV4ltoMZ5RFD4H1iL+DLCFDCzNCiMchdzjfeD8bGN34HrUDmuaPWmn7BQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.34-89/Mailday-0.2.34-89.zip" length="8804682" type="application/octet-stream" sparkle:edSignature="oJfaIKazfC2I0viZ7d9uSK5WAOpm+EX3knLBsJf303cYto26vE9y7CfhTq55u793EuT7HwNhQQfJkm0gFMqEBA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9rgijhJMSHsVP9U2QgSMiKWGgVluDYU9hoIlKOQxFbA/OykMr305109j1Qr6+DAMju931qAEsikauueFqN3lBg==
-length: 1215
+edSignature: eFgN8y9nrexRgBtMO+ydtYWpoAw0t+ziPxLDMSDEOrYVj2AFbT5e8g3MlV871acAM8bdNjUUjQGWshDRDEi1DA==
+length: 1236
 -->
