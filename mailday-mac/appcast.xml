@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.39 · build 94</title>
-      <pubDate>Tue, 13 Oct 2026 18:10:42 +0000</pubDate>
-      <description>Sections fill the window; no freeze reopening long sections.</description>
-      <sparkle:version>94</sparkle:version>
-      <sparkle:shortVersionString>0.2.39</sparkle:shortVersionString>
+      <title>Mailday 0.2.40 · build 95</title>
+      <pubDate>Tue, 13 Oct 2026 19:38:53 +0000</pubDate>
+      <description>Calendar button in the mail list.</description>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>0.2.40</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.39-94/Mailday-0.2.39-94.zip" length="8820101" type="application/octet-stream" sparkle:edSignature="DOK2kIm/W266o8fA3MytWZISr/Wu837ZzlJaZOoZqbqMGcvRdbMpdKjfwn63Av/Py2XJbJUkuJf4F+m3OMzxAQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.40-95/Mailday-0.2.40-95.zip" length="8820432" type="application/octet-stream" sparkle:edSignature="iuM3+7h3xta/t6ZP2BYF9rNOBTJ/qqp411S61zzDD6l/dnuhuP76OJMGgh3lA/Jhp3CEDh2DxdN5qgbkLHzjDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hf71/ajaVRHqQ67GQQi4CnZrBTnZHvjp0Jv6IiF4BeFDEQ25LBsN/enQgVbAq/+7ZdiuoQ0ROdE9d494Qv/+Dg==
-length: 1219
+edSignature: qTYHZctl26oUAo0Gz+rbo/x3W4MC+L3WAETunVvK7b5oiC16FqkxXx6U5P0BbuKNS78NEuMB6kTgTnjsibuUBg==
+length: 1192
 -->
