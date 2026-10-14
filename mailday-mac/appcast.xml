@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.48 · build 103</title>
-      <pubDate>Wed, 14 Oct 2026 14:41:46 +0000</pubDate>
-      <description>Drag and drop emails to folders and Smart Mailboxes.</description>
-      <sparkle:version>103</sparkle:version>
-      <sparkle:shortVersionString>0.2.48</sparkle:shortVersionString>
+      <title>Mailday 0.2.49 · build 104</title>
+      <pubDate>Wed, 14 Oct 2026 18:13:34 +0000</pubDate>
+      <description>Email menus stay where you scroll them while mail syncs.</description>
+      <sparkle:version>104</sparkle:version>
+      <sparkle:shortVersionString>0.2.49</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.48-103/Mailday-0.2.48-103.zip" length="9121009" type="application/octet-stream" sparkle:edSignature="JlLrxAsRSEgcxq2KCBJtSvQiK9IhKTyDVA0fXI63BzUo1wKg47Scjc/IrC22XHK4y2XW4jTURS6XpC+N6uwjBQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.49-104/Mailday-0.2.49-104.zip" length="9106416" type="application/octet-stream" sparkle:edSignature="lBJSFI34Fhh+MeQ8KDDVg2IGb0Q1Z9iNx3BhW1C8M1i0pDLOK7yIvNVJC1Y7LXxULHU9SRoiW0luRy4Puqj5AA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: g3uq0FaJj54O1p4Pq4S2n0WVXiQynsp+xWdmfeWxJpKYsA+3RIUoZMXSMlVSJYqL9yepUZzr0L74nSkj/xmaAQ==
-length: 1215
+edSignature: XSkKb+vlVQpXc6kEi9vRA5p4L3GfqqVVjny3wNMlCbOJqv9J73x8wQbucj2yTjlwYSX95bfE7AjecAHeQFMfBQ==
+length: 1219
 -->
