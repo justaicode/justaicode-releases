@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.52 · build 107</title>
-      <pubDate>Thu, 15 Oct 2026 08:09:51 +0000</pubDate>
-      <description>The + button offers New email or New event.</description>
-      <sparkle:version>107</sparkle:version>
-      <sparkle:shortVersionString>0.2.52</sparkle:shortVersionString>
+      <title>Mailday 0.2.53 · build 108</title>
+      <pubDate>Thu, 15 Oct 2026 08:23:17 +0000</pubDate>
+      <description>Save and run a rule from the rule editor.</description>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>0.2.53</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.52-107/Mailday-0.2.52-107.zip" length="9153222" type="application/octet-stream" sparkle:edSignature="OnVJTMg7QM4zhA43IRyEdFJ8i33vWBgZgrwQEdcny4/d8GOA+xuPF1Ky3B7dNA7fXWt9bZ/JkcAf2JRthQGfAw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.53-108/Mailday-0.2.53-108.zip" length="9160214" type="application/octet-stream" sparkle:edSignature="8MmsrFx2HNAQ968ZRw4fsJtZ0UkBbXODfgQExWq3tXmS3gO2AID/WZjVwJK+FoRmUev4J0f/cbt0v0NQHMVpDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2oLT9rm33YBlyEmSnV6p3KZWXzJdzkZajF9ZdTaPAyrzDclwqFsmvOz76wCMDNzQSbbGWzmrKjMbamqzIYSmDw==
-length: 1206
+edSignature: Lyxp61esdvbcUPGxRz9ANcdzZDUnVaPnY8R2gtfQl0dWZkb+jNZHZygn8KXzNjZyEqyQix3+Gip6qiYnSoXzAA==
+length: 1204
 -->
