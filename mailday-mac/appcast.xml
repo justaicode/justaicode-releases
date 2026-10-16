@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.59 · build 114</title>
-      <pubDate>Fri, 16 Oct 2026 07:21:10 +0000</pubDate>
-      <description>New: Smart Mailbox rule Mail contains.</description>
-      <sparkle:version>114</sparkle:version>
-      <sparkle:shortVersionString>0.2.59</sparkle:shortVersionString>
+      <title>Mailday 0.2.60 · build 115</title>
+      <pubDate>Fri, 16 Oct 2026 08:46:39 +0000</pubDate>
+      <description>New: delete one or all events of a repeating series.</description>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>0.2.60</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.59-114/Mailday-0.2.59-114.zip" length="9307001" type="application/octet-stream" sparkle:edSignature="fSDD8YnK9PLAVXF8ouNwcfW2vWXyZTK3p0FjFsoIhNScAoxAXsKVcniaHdVyGBd+IwXKq4ES3QwiSMC7sOgaBA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.60-115/Mailday-0.2.60-115.zip" length="9313582" type="application/octet-stream" sparkle:edSignature="zjvXT85BTRqueRnsvEg8OorE7QzxIMhuBrUhBkC6Z6ThyRb5MgSKKvSmlJW5k8PeMEjv9dMj7ehHKZczIch3AA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Q4izzVCDBcWvQL+K2G8gqr3sqLxvp9K29xq/f9FTNwGHaPnMEX+jk6Y0UVqNIWXfj7fne4SRECY5ax8vbAR9Cg==
-length: 1201
+edSignature: KxbWrJfvc7ej1GrVnU4NGz1cSvCaEKpOZhnv2sXnmPl8jvYZX7qpTisM/OZXuAFYgGBgxHT59i80mN+phzTaDg==
+length: 1215
 -->
