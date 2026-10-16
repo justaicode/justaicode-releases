@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.57 · build 112</title>
-      <pubDate>Fri, 16 Oct 2026 03:41:55 +0000</pubDate>
-      <description>New Settings → Storage: limit the older-mail download and clean up mail older than a date.</description>
-      <sparkle:version>112</sparkle:version>
-      <sparkle:shortVersionString>0.2.57</sparkle:shortVersionString>
+      <title>Mailday 0.2.58 · build 113</title>
+      <pubDate>Fri, 16 Oct 2026 06:34:21 +0000</pubDate>
+      <description>Fix: long-press menu no longer jumps back to the top.</description>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>0.2.58</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.57-112/Mailday-0.2.57-112.zip" length="9301317" type="application/octet-stream" sparkle:edSignature="Oh/i+2TzHCslBLeJx6vQcfpWrMy2gTFtsPvZ9BS9H7MFyEXNzG2vIlHq3nrkYu5PQlrjwqwHEReketWT+p70BA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.58-113/Mailday-0.2.58-113.zip" length="9307233" type="application/octet-stream" sparkle:edSignature="pLofMYcD4tNh1ERkSRrVVg1i9/WfLgx6BUFhRfCamNDbQp3SYjLBWftXcYTf8B6btjfhB5GK9bvidJf8jHM1Cg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: tLt6KwhRU8Hq/OziAIntJvhzmA+r9ju3pSTMypMSsXYvAJ411Y3EFh8FLOg9pA0nUr0mJ3h2O4/xl4eqCYdUBQ==
-length: 1255
+edSignature: lRbIZ9WZQso0j1bgCPzCqBr1GxS6T+dRry7ZKM5mKxDufeJQEtI0AMT5yBAvxfGm9D8v3dTi7MDMKexBnbWBBA==
+length: 1216
 -->
