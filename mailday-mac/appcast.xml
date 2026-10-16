@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.56 · build 111</title>
-      <pubDate>Thu, 15 Oct 2026 20:00:28 +0000</pubDate>
-      <description>Fixed new mail waiting behind the older-mail download.</description>
-      <sparkle:version>111</sparkle:version>
-      <sparkle:shortVersionString>0.2.56</sparkle:shortVersionString>
+      <title>Mailday 0.2.57 · build 112</title>
+      <pubDate>Fri, 16 Oct 2026 03:41:55 +0000</pubDate>
+      <description>New Settings → Storage: limit the older-mail download and clean up mail older than a date.</description>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.2.57</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.56-111/Mailday-0.2.56-111.zip" length="9245247" type="application/octet-stream" sparkle:edSignature="vfOFKN4omYT4cxVTrPW0bXAJeshNZG3mN0ggACc1lsqiCgNcHsom0gxbAWisDxKHkOfTWtZymrIFE7QYLwjBCA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.57-112/Mailday-0.2.57-112.zip" length="9301317" type="application/octet-stream" sparkle:edSignature="Oh/i+2TzHCslBLeJx6vQcfpWrMy2gTFtsPvZ9BS9H7MFyEXNzG2vIlHq3nrkYu5PQlrjwqwHEReketWT+p70BA=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: pLxIHDrwMW+odJrlA9sUmD1tJusXSpmWF8YpEF9VHrDMEU+nQOePWXsoe6L7/D0XhXwmoDD/Hp8Vav8CuQf+CQ==
-length: 1217
+edSignature: tLt6KwhRU8Hq/OziAIntJvhzmA+r9ju3pSTMypMSsXYvAJ411Y3EFh8FLOg9pA0nUr0mJ3h2O4/xl4eqCYdUBQ==
+length: 1255
 -->
