@@ -1,23 +1,23 @@
 {
   "app": "chevio-mac",
   "name": "Chevio",
-  "version": "1.3.4",
-  "build": "140",
-  "date": "2026-10-15T15:04:36Z",
+  "version": "1.3.5",
+  "build": "141",
+  "date": "2026-10-17T13:12:03Z",
   "platform": "macos",
   "minOS": "11.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.4-140/Chevio-1.3.4-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.5-141/Chevio-1.3.5-macOS.zip",
     "kind": "zip",
-    "size": 4143143,
-    "sha256": "1a1e3ab5cf102a14b3665e71b7b600d8adbe077d9366bb6a5a1c50133fc4804d"
+    "size": 4145975,
+    "sha256": "1b34915d74ba2ac89a36488bad3390e395b32201971921227069dec546e4c969"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/chevio-mac-v1.3.4-140",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/chevio-mac-v1.3.5-141",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.4-140/Chevio-1.3.4-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/chevio-mac-v1.3.5-141/Chevio-1.3.5-macOS.dmg",
     "kind": "dmg",
-    "size": 4889262,
-    "sha256": "5a6a972d7002de0f3c1cfba6096b82287b54ab52398a3de08b0dd0db0d01a390"
+    "size": 4891051,
+    "sha256": "f1c5ceb2bd8189e02e83453f344fd3ed2e7497a5351eb79b91daafcc011296d6"
   }
 }
