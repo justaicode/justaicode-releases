@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.62 · build 117</title>
-      <pubDate>Fri, 16 Oct 2026 09:38:46 +0000</pubDate>
-      <description>Fix: sign-in screen closes after signing in again.</description>
-      <sparkle:version>117</sparkle:version>
-      <sparkle:shortVersionString>0.2.62</sparkle:shortVersionString>
+      <title>Mailday 0.2.63 · build 118</title>
+      <pubDate>Sat, 17 Oct 2026 06:48:50 +0000</pubDate>
+      <description>Fix: Clean up date is remembered; Log Out is centered.</description>
+      <sparkle:version>118</sparkle:version>
+      <sparkle:shortVersionString>0.2.63</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.62-117/Mailday-0.2.62-117.zip" length="9348864" type="application/octet-stream" sparkle:edSignature="ZNr2r4aZ3JHAdzZUHZOYM1od0LmqrDfmxRvKtPs/E4YhvDOYqJMsQs3WsLbDK+OQHaRhGJZy7bQfWx/j2YnKDQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.63-118/Mailday-0.2.63-118.zip" length="9350236" type="application/octet-stream" sparkle:edSignature="yofRZ0E3KtaPFqLyhMHhAOY825SRq0Lujylw0kXcDT/Cumsg14aGF8t8MpbK0VaqtefxaL/eEN5uAAcaNhJnCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ux5xszwLjGFoXI24H/y1i+RkfM3Ca7pWSsSJzvHZbaTcKg0undwFTkE7RMVXU80uxELN7ba9N5EZr+F1d9mADQ==
-length: 1213
+edSignature: Ar8JfhyONFOx9XXhO2IJf/ZZb+hqfycmUs4k6LadKy2XknDXQ9AehJYV0C+ZHaKQ6IUb6Tdn5e66eXEC6fIDBA==
+length: 1217
 -->
