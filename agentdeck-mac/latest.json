@@ -2,22 +2,22 @@
   "app": "agentdeck-mac",
   "name": "Agentrix",
   "version": "1.4.0",
-  "build": "374",
-  "date": "2026-10-17T12:26:52Z",
+  "build": "376",
+  "date": "2026-10-18T10:42:13Z",
   "platform": "macos",
   "minOS": "13.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v1.4.0-374/Agentrix-1.4.0-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v1.4.0-376/Agentrix-1.4.0-macOS.zip",
     "kind": "zip",
-    "size": 130305849,
-    "sha256": "1611b8323b6244274d97de7b926aa4809b87e939ed85a36c6e890682ee342205"
+    "size": 130306276,
+    "sha256": "04abf97d810679252a5048653b448f39f58a9d8132abfdb35b53385e1b8d724c"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v1.4.0-374",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/agentdeck-mac-v1.4.0-376",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v1.4.0-374/Agentrix-1.4.0-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/agentdeck-mac-v1.4.0-376/Agentrix-1.4.0-macOS.dmg",
     "kind": "dmg",
-    "size": 142509637,
-    "sha256": "ee2e8b52efb24852831a4b5e998e3cacd4d7730145218ae9fc42f05f32435833"
+    "size": 142509899,
+    "sha256": "9b7ddef3df6f70d32fb802dbd4e4aef26ef733d3e05cbf5e37862e8eae78b90b"
   }
 }
