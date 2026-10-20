@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.85 · build 140</title>
-      <pubDate>Tue, 20 Oct 2026 08:29:02 +0000</pubDate>
-      <description>Recover paused Mac mailbox updates and keep email content clear of toolbar controls.</description>
-      <sparkle:version>140</sparkle:version>
-      <sparkle:shortVersionString>0.2.85</sparkle:shortVersionString>
+      <title>Mailday 0.2.86 · build 141</title>
+      <pubDate>Tue, 20 Oct 2026 08:53:33 +0000</pubDate>
+      <description>Create purchase PDFs from Apple Store orders, including AED prices and shipment details.</description>
+      <sparkle:version>141</sparkle:version>
+      <sparkle:shortVersionString>0.2.86</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.85-140/Mailday-0.2.85-140.zip" length="9648607" type="application/octet-stream" sparkle:edSignature="Vj1mUZ5QD6Vi+iXyYZ6dwJYDvoSTZnfOzECKsDA0dOXx7tHO1tknvPaPikOjKZhjga5cFg5hO70NbP3AYmk/Dw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.86-141/Mailday-0.2.86-141.zip" length="9654206" type="application/octet-stream" sparkle:edSignature="DKIKzw4/CYGOjeaQMyohIu75q0wnj2eQq0y6GXKIBRZuPZ2/sGXyQiHqXklXknSAjmf7WFO0zIZOmfUG/PNKBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aWtPiSVYfpBf5HOxCIGTyqxziAFYS6yoL2O4kCBt3me+p2KbgLgUAZIExiss7DLrsV2yc0Km236UhwZK1Xb6CA==
-length: 1247
+edSignature: Z3Anj8UBqBWk0slc+9jRTNp89ko/auIwGgv/vvF4CWrg2iCU7n8cG26kS3xJwIR/Ux546Q/hHiQczIGQ3z/PDQ==
+length: 1251
 -->
