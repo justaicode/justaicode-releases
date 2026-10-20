@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.82 · build 137</title>
-      <pubDate>Mon, 19 Oct 2026 19:52:22 +0000</pubDate>
-      <description>Faster repeat mailbox navigation and fewer unnecessary toolbar updates.</description>
-      <sparkle:version>137</sparkle:version>
-      <sparkle:shortVersionString>0.2.82</sparkle:shortVersionString>
+      <title>Mailday 0.2.83 · build 138</title>
+      <pubDate>Tue, 20 Oct 2026 04:53:24 +0000</pubDate>
+      <description>Better recovery from temporary Google errors and preserved download progress.</description>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>0.2.83</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.82-137/Mailday-0.2.82-137.zip" length="9602825" type="application/octet-stream" sparkle:edSignature="edp5WxxEo+D8jAquytQlIc70XB8p7d/HQzFsBMoO2NzalXkFvKtBwF9P6BGMs6X91H3AcIr0fKt9vOsxUufCDQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.83-138/Mailday-0.2.83-138.zip" length="9618449" type="application/octet-stream" sparkle:edSignature="vhrOxlLxPEczBETqsdK/bakXswGoDkXk2ArnikK2wqqItfQ2+zJ6y0Fk49IaPEgTPb8U9VSuuIzQIfYShYxCDw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IbtlzO49xkmgxV8wlupH/q2v1frsUcFwFxpllT4Hb27Pzv9LjvpRwKIYisp5lwYmKAxe5Yv4zJEm4rqnzbkbDg==
-length: 1234
+edSignature: sP9+xehe801tmdlZQeCosUjJb0fHlZFeZgX2Zdg8eDfpaTjlaKgy2GnJv0p9b42Lj55/grueV8mw2DjXiPSrDQ==
+length: 1240
 -->
