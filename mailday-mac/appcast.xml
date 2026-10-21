@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.94 · build 149</title>
-      <pubDate>Wed, 21 Oct 2026 07:33:41 +0000</pubDate>
-      <description>Actual event times in calendar widgets.</description>
-      <sparkle:version>149</sparkle:version>
-      <sparkle:shortVersionString>0.2.94</sparkle:shortVersionString>
+      <title>Mailday 0.2.95 · build 150</title>
+      <pubDate>Wed, 21 Oct 2026 07:57:31 +0000</pubDate>
+      <description>Show times on short calendar events.</description>
+      <sparkle:version>150</sparkle:version>
+      <sparkle:shortVersionString>0.2.95</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.94-149/Mailday-0.2.94-149.zip" length="9709205" type="application/octet-stream" sparkle:edSignature="fKX1xstut+rVzR2P8C+kncZKU1Iz2x7YEG21T3j8mjByDvLhar4Yf92PQyt/HVRjmmMRbaaH3HO2x5e7ZrYdDg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.95-150/Mailday-0.2.95-150.zip" length="9715701" type="application/octet-stream" sparkle:edSignature="AqNT5/nLgOG6AmR5GSRIgEfOL4A985LxDvUqE5ZSbq4xzYzg5UJQsO/GcuQ0S75a65KKCg2nV8QSZ5fSKHgTBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ia+K5qPLWqbhXXsFP4Arb0lVhPAcsWV2u55ml7wdTa7IIIMJZia4A9achI3k2MmT+eSSflsR1WScvPCELaIjBg==
-length: 1202
+edSignature: Grai5TrOYKI7aemPxLU0ij/RadOTthLJfIUTm2JYJAzzs5xLHrG8eXJmOKPPc5dsp/UwHHZAtv+eqvGEpL2BAw==
+length: 1199
 -->
