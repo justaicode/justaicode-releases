@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.97 · build 152</title>
-      <pubDate>Wed, 21 Oct 2026 12:02:53 +0000</pubDate>
-      <description>Prevent actions stalling during busy mailbox updates.</description>
-      <sparkle:version>152</sparkle:version>
-      <sparkle:shortVersionString>0.2.97</sparkle:shortVersionString>
+      <title>Mailday 0.2.98 · build 153</title>
+      <pubDate>Thu, 22 Oct 2026 07:15:29 +0000</pubDate>
+      <description>Share emails by link with expiry and native sharing; keep the reader menu scrolled during updates.</description>
+      <sparkle:version>153</sparkle:version>
+      <sparkle:shortVersionString>0.2.98</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.97-152/Mailday-0.2.97-152.zip" length="9725460" type="application/octet-stream" sparkle:edSignature="DTohYTrwvk88of2WiM4EYAi9LGkPr+VeJpHOxhQLpopwLNH3DcHl98MEdwadj798iMXWdrdRPJqx0ahlDQxjCQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.98-153/Mailday-0.2.98-153.zip" length="9788192" type="application/octet-stream" sparkle:edSignature="1Ry4dMD1dYSidVNpksi7qL15ORebuMTicqCNLqGAraGucy7sSY/17b+leBbTs64G+Y5VtOG8SHCSkesmd+DZCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ajQtuDUFUowS7Wfp2iDfFx+Y0XbOJBelU79wU2r2NOsICKcyUC63HB0yJ8uvSU1/0eoTq8s0hNEAooXTWzfzDQ==
-length: 1216
+edSignature: 5LR3absr1/pvo7m47QxYTtyd79qpwvq0Aqq2wbUgBNzo8nOgi6HwkbCg3YssyU0O7J7JMG+RbM6CKW9TxgxFDw==
+length: 1261
 -->
