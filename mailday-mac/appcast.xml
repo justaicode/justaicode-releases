@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.108 · build 163</title>
-      <pubDate>Sat, 24 Oct 2026 04:14:54 +0000</pubDate>
-      <description>Fix Inbox menu scrolling and retry short Gmail request-limit refusals.</description>
-      <sparkle:version>163</sparkle:version>
-      <sparkle:shortVersionString>0.2.108</sparkle:shortVersionString>
+      <title>Mailday 0.2.109 · build 164</title>
+      <pubDate>Sat, 24 Oct 2026 08:12:30 +0000</pubDate>
+      <description>Fix narrow-column layouts in shipment emails.</description>
+      <sparkle:version>164</sparkle:version>
+      <sparkle:shortVersionString>0.2.109</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.108-163/Mailday-0.2.108-163.zip" length="9865649" type="application/octet-stream" sparkle:edSignature="0NE9e4iD9gFQWHxbOFqHjBCHDUXoGMlecY2P8DZq7OwlarVr6UdAGwN1RY+H5I9Td3G3+O0hh98A4P5et3OACA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.109-164/Mailday-0.2.109-164.zip" length="9865612" type="application/octet-stream" sparkle:edSignature="bSNbPtRgcJLQc6Feo7IV0b0VDFfH0n/GEgbT65FGowhBQjkzhpNrXvO5oXWU1ySRSiAfd37Q4j3JWGCd9AMTCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mqk8N4ynmhho1om9L4bxuQ8VmEMOX1zaEl89qLifUhTRIHyD4xzQ45l0lL53Riat/2G5g9IUT20lxIdqSGmzBQ==
-length: 1237
+edSignature: xRzj9BPs2TquNJLNiT1/hoLsCnRx6H4k7faTq3PhSTgBLRpXriAlBlGNWqanfCFKSWdlcF7I1cS8zfBlifLwDQ==
+length: 1212
 -->
