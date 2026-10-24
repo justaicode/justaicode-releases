@@ -1,23 +1,23 @@
 {
   "app": "statio-mac",
   "name": "Statio",
-  "version": "0.2.1",
-  "build": "3",
-  "date": "2026-10-19T10:04:10Z",
+  "version": "0.2.7",
+  "build": "9",
+  "date": "2026-10-24T15:22:12Z",
   "platform": "macos",
   "minOS": "14.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/statio-mac-v0.2.1-3/Statio-0.2.1-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/statio-mac-v0.2.7-9/Statio-0.2.7-macOS.zip",
     "kind": "zip",
-    "size": 2764637,
-    "sha256": "7233b55d16c200514c2716a090c06cdf422d66b91d650eacc299b6e7fb0e2cb1"
+    "size": 2819745,
+    "sha256": "02a89e996feea96d44d7c8c24978fb03377351ee25ce33571ed9043259bd1407"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/statio-mac-v0.2.1-3",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/statio-mac-v0.2.7-9",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/statio-mac-v0.2.1-3/Statio-0.2.1-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/statio-mac-v0.2.7-9/Statio-0.2.7-macOS.dmg",
     "kind": "dmg",
-    "size": 3264034,
-    "sha256": "23f977058cd6d1218afc98725b19c01bb7b6eafc8154e6fe28e0f8d6ee06bcef"
+    "size": 3318753,
+    "sha256": "e5d3f3eabb29d796c9973936e34c9296dd203606583644df94c650b47b9c9f43"
   }
 }
