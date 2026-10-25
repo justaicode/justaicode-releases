@@ -1,23 +1,23 @@
 {
   "app": "oxygon-studio-mac",
   "name": "Oxygon Studio",
-  "version": "1.0.8",
-  "build": "8",
-  "date": "2026-09-19T08:14:07Z",
+  "version": "1.0.17",
+  "build": "17",
+  "date": "2026-10-25T08:22:37Z",
   "platform": "macos",
   "minOS": "12.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oxygon-studio-mac-v1.0.8-8/OxygonStudio-1.0.8-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oxygon-studio-mac-v1.0.17/OxygonStudio-1.0.17-macOS.zip",
     "kind": "zip",
-    "size": 164523,
-    "sha256": "8c749d3624e91c9f94abbe13040bb9a6fda36d419d01bdcf6c7d1d51e059f035"
+    "size": 850847,
+    "sha256": "eef1419d0a050acebe1504a2e19252a02e91dedb59762da392726acb4f5c50df"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oxygon-studio-mac-v1.0.8-8",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oxygon-studio-mac-v1.0.17",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oxygon-studio-mac-v1.0.8-8/OxygonStudio-1.0.8-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oxygon-studio-mac-v1.0.17/OxygonStudio-1.0.17-macOS.dmg",
     "kind": "dmg",
-    "size": 626966,
-    "sha256": "78b2cf9708c3e999a9b08b56c524445be629516f81fb919f127815a85e014a37"
+    "size": 1310674,
+    "sha256": "c6758fabdb76927da25944491d68fcac4f0550cf87d6849acce1e2c5642c7c7f"
   }
 }
