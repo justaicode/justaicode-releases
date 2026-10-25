@@ -2,22 +2,22 @@
   "app": "expendio-mac",
   "name": "Expendio",
   "version": "0.2.0",
-  "build": "25",
-  "date": "2026-10-25T16:13:16Z",
+  "build": "27",
+  "date": "2026-10-25T17:17:28Z",
   "platform": "macos",
   "minOS": "26.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/expendio-mac-v0.2.0-25/Expendio-0.2.0-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/expendio-mac-v0.2.0-27/Expendio-0.2.0-macOS.zip",
     "kind": "zip",
-    "size": 4947257,
-    "sha256": "5f9c1b9c55694799e1e5abd6383d497d7db6c48e19cfae03bb2929861753a6fc"
+    "size": 4960650,
+    "sha256": "83fb36e5788d3a6a295e1f5234bef37e0bb388a9a7a8de733d45de3172f59574"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/expendio-mac-v0.2.0-25",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/expendio-mac-v0.2.0-27",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/expendio-mac-v0.2.0-25/Expendio-0.2.0-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/expendio-mac-v0.2.0-27/Expendio-0.2.0-macOS.dmg",
     "kind": "dmg",
-    "size": 5749945,
-    "sha256": "ca8d9be2b0f88c42a19fca0f65a69b772c60900ef4fd2329442fc9f9aca6de18"
+    "size": 5769024,
+    "sha256": "7d8fe34eed1a95c2880938874edca3679f1a8e385d725101d81017a7f3c32ca4"
   }
 }
