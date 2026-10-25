@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.113 · build 168</title>
-      <pubDate>Sun, 25 Oct 2026 11:19:56 +0000</pubDate>
-      <description>Reliable bulk mark-as-read with Gmail batches.</description>
-      <sparkle:version>168</sparkle:version>
-      <sparkle:shortVersionString>0.2.113</sparkle:shortVersionString>
+      <title>Mailday 0.2.114 · build 169</title>
+      <pubDate>Sun, 25 Oct 2026 12:45:31 +0000</pubDate>
+      <description>Responsive startup while secure sign-in storage loads.</description>
+      <sparkle:version>169</sparkle:version>
+      <sparkle:shortVersionString>0.2.114</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.113-168/Mailday-0.2.113-168.zip" length="9933216" type="application/octet-stream" sparkle:edSignature="K52zKTxHsmMDhDOPTFS7nWvmo5y3sDjbs6bBrjfXi/CumMyuHv5WEdGirrXsTDbhcPdL5VW9FfwpSW5wx4JLBA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.114-169/Mailday-0.2.114-169.zip" length="9941685" type="application/octet-stream" sparkle:edSignature="jVmei0PdCtG20V7RRQ+xCjpdIJThlZsm2/kP54UT5ByDIrE1vc6PB/g3P6XX5CKJUOEfgXHxsBJx+IWF+iOzAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DtqIeyeX1hqefH+GfswolpMoz5NB3BTFxG5ZYfPIRDaUG9Zw8jFyJGH+2OGLZQJnYsWNbA4KzUzlg82jMm+IBA==
-length: 1213
+edSignature: iO91m7t9zDTRtKY8KpqKxUtuCfpUl7NCnP+qKvXTkkHoNo8vACqtyHmBEKFAm/6chyAs2TWErYb3IUI9LsS7DQ==
+length: 1221
 -->
