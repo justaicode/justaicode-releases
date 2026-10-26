@@ -1,23 +1,23 @@
 {
   "app": "justaicode-launcher-mac",
   "name": "Zero Code",
-  "version": "0.1.9",
-  "build": "10",
-  "date": "2026-10-25T13:19:55Z",
+  "version": "0.1.10",
+  "build": "11",
+  "date": "2026-10-26T07:14:50Z",
   "platform": "macos",
   "minOS": "14.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/justaicode-launcher-mac-v0.1.9-10/ZeroCode-0.1.9-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/justaicode-launcher-mac-v0.1.10-11/ZeroCode-0.1.10-macOS.zip",
     "kind": "zip",
-    "size": 1137609,
-    "sha256": "fde4670b51bb85d387c4d2b4187c3bc66fd3df6f9c7d3a5aafea06621538b0be"
+    "size": 1145059,
+    "sha256": "53aeee611750e6a7c8006d27e3a98569b94a79b756c6698a893c2ce7c73d2621"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/justaicode-launcher-mac-v0.1.9-10",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/justaicode-launcher-mac-v0.1.10-11",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/justaicode-launcher-mac-v0.1.9-10/ZeroCode-0.1.9-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/justaicode-launcher-mac-v0.1.10-11/ZeroCode-0.1.10-macOS.dmg",
     "kind": "dmg",
-    "size": 1694296,
-    "sha256": "f99939354b4d5abd01c5d27158f9431a87699e97043a518f1cfccbd7974fd5a4"
+    "size": 1704235,
+    "sha256": "10ba33fcee30f40b71a4c2f022c7a1e8cdd48b4fdee526d3e561d8439c935a8d"
   }
 }
