@@ -2,22 +2,22 @@
   "app": "oneday-mac",
   "name": "One Day",
   "version": "0.1.0",
-  "build": "16",
-  "date": "2026-11-02T13:00:03Z",
+  "build": "17",
+  "date": "2026-11-02T15:09:16Z",
   "platform": "macos",
   "minOS": "26.0",
   "notarized": true,
   "download": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oneday-mac-v0.1.0-16/OneDay-0.1.0-macOS.zip",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oneday-mac-v0.1.0-17/OneDay-0.1.0-macOS.zip",
     "kind": "zip",
-    "size": 1305096,
-    "sha256": "9bae69cba5d1144db75e594ed90e7247211eff5c63937d441060887c6e623e34"
+    "size": 1504176,
+    "sha256": "1877b8e97853cc3415ef6b4c7395eaba5dd85f83d4f7c488aee1624e9b244b99"
   },
-  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oneday-mac-v0.1.0-16",
+  "notes": "https://github.com/justaicode/justaicode-releases/releases/tag/oneday-mac-v0.1.0-17",
   "dmg": {
-    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oneday-mac-v0.1.0-16/OneDay-0.1.0-macOS.dmg",
+    "url": "https://github.com/justaicode/justaicode-releases/releases/download/oneday-mac-v0.1.0-17/OneDay-0.1.0-macOS.dmg",
     "kind": "dmg",
-    "size": 1847210,
-    "sha256": "fc816493bf50b97f1bc13b91337deb54d90cf1d0b2c254ef55273d60b55d7276"
+    "size": 2067710,
+    "sha256": "21426c7cbc79a3a06819b4b17bc8e7d5e3d268fee47a72c2846cf0a8155d09e4"
   }
 }
