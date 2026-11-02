@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.127 · build 183</title>
-      <pubDate>Mon, 02 Nov 2026 05:40:09 +0000</pubDate>
-      <description>Recover formatted email rendering after interruptions.</description>
-      <sparkle:version>183</sparkle:version>
-      <sparkle:shortVersionString>0.2.127</sparkle:shortVersionString>
+      <title>Mailday 0.2.128 · build 184</title>
+      <pubDate>Mon, 02 Nov 2026 11:20:23 +0000</pubDate>
+      <description>Find sent emails, preserve reply conversations and recover send preparation.</description>
+      <sparkle:version>184</sparkle:version>
+      <sparkle:shortVersionString>0.2.128</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.127-183/Mailday-0.2.127-183.zip" length="10253871" type="application/octet-stream" sparkle:edSignature="3Ek2QKSEIy5Go5bBHJ90OqSFVsQOdxkZWapsSRquDXOQwDqYBLOYKA7ydsZqwkXK/HuyKMqKpPXWs81OZK1dCA=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.128-184/Mailday-0.2.128-184.zip" length="10261139" type="application/octet-stream" sparkle:edSignature="0CgZ8rBN4T3teD7UWgJxkpNKFR2FGo5xYl5fdnWIWQeoenmeW1vbQUlhX0985NxHjBSU+b0YgOdd7wEK4TKTAw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: p9mLEWNtJdgCBnPl4C3Pe7ZjTwbIbw5h21GC3F7D+n/BLKyfhhP2Lpjl5xv9+nKxXt7jd21N59NqOO72yHUnCQ==
-length: 1222
+edSignature: 2Pr6jRiRQkIF0oievxiKsFbpvFVo9dn5g2X3wBT4wqM+Ce7UAfYiqRj8QUf0LecImJO7uIGT1TP8leNRxw8tDg==
+length: 1244
 -->
