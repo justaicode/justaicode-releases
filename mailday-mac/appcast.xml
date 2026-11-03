@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.129 · build 185</title>
-      <pubDate>Mon, 02 Nov 2026 18:37:46 +0000</pubDate>
-      <description>Guard mail connection cancellation and late network callbacks.</description>
-      <sparkle:version>185</sparkle:version>
-      <sparkle:shortVersionString>0.2.129</sparkle:shortVersionString>
+      <title>Mailday 0.2.130 · build 186</title>
+      <pubDate>Tue, 03 Nov 2026 06:09:00 +0000</pubDate>
+      <description>Customize the bottom email toolbar on iPhone and iPad.</description>
+      <sparkle:version>186</sparkle:version>
+      <sparkle:shortVersionString>0.2.130</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.129-185/Mailday-0.2.129-185.zip" length="10259677" type="application/octet-stream" sparkle:edSignature="AGgA3RLkMGaV53PlZB9f9wjAPvjuADmszkzKSoxlcdLrMot3QFq8RdJCtZ1OTmQcvT/Fsw+GMjxOyOcllhrICQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.130-186/Mailday-0.2.130-186.zip" length="10259600" type="application/octet-stream" sparkle:edSignature="12ENqSVlw+E9WCh1vhNuYepYtVRAU4sc8pK/ldzh76Jn+Sr19iIMqFUXqMRPeAaYFfO/YJ6R8SMWcINO60g2DQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: inovaAwrgyL5iPjBQcEptOjxSD03NEkzDDCKDYVjOgH52/jXTwfObe7xRqfyME+XPpapbeSJe5WWWXkzlInUAA==
-length: 1230
+edSignature: ql6qUvKHsdeDaQiFtR7i3YLkJ4ifJAfFcYbGr/D0zu11BSUD4+DZz02pzjjrD2xPfSs+kc7ojmnT9JKv3gA0CQ==
+length: 1222
 -->
