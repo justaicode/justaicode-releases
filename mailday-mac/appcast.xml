@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.136 · build 192</title>
-      <pubDate>Sat, 07 Nov 2026 07:16:46 +0000</pubDate>
-      <description>Dictate emails in Greek and English with an icon-only composer toolbar.</description>
-      <sparkle:version>192</sparkle:version>
-      <sparkle:shortVersionString>0.2.136</sparkle:shortVersionString>
+      <title>Mailday 0.2.137 · build 193</title>
+      <pubDate>Sat, 07 Nov 2026 07:50:02 +0000</pubDate>
+      <description>Mail and Calendar use the same icon-only sidebar button.</description>
+      <sparkle:version>193</sparkle:version>
+      <sparkle:shortVersionString>0.2.137</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.136-192/Mailday-0.2.136-192.zip" length="12626806" type="application/octet-stream" sparkle:edSignature="rRTMKiKpKFNhBZH04bJz6fpvLOPjTjQt05/ASpETSTqq9fzDPaR9+GThzXjoAJ1g8UGkk39HJb5tYbpKKy4iBQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.137-193/Mailday-0.2.137-193.zip" length="12625372" type="application/octet-stream" sparkle:edSignature="PS/Ijb0fSHDHh3tvSuRs97RLEf9WSS85mv1AXBsT57jF8tP6qtvhV0mEUIbN8OFPgq+IbpToztVqXMeG6suNBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Y3E07pD1VS88hk979cE7w9rWO8IFMgCYCZcaPCNrXK3ePuP9jCkPTYi0xwTMGxkdmLCnXtp17ds/wO9i5W/7Cg==
-length: 1239
+edSignature: HFPw8D8npxS+sT/8CvzdHilLvQJCA61NhU1AAq9syfD/i3c9HVBhkpfVtKie+himQWPEqu/q/x828IFD3Tp9BQ==
+length: 1224
 -->
