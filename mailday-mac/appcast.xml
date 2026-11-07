@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.135 · build 191</title>
-      <pubDate>Fri, 06 Nov 2026 09:48:10 +0000</pubDate>
-      <description>Google sign-in remains available during background mail refresh.</description>
-      <sparkle:version>191</sparkle:version>
-      <sparkle:shortVersionString>0.2.135</sparkle:shortVersionString>
+      <title>Mailday 0.2.136 · build 192</title>
+      <pubDate>Sat, 07 Nov 2026 07:16:46 +0000</pubDate>
+      <description>Dictate emails in Greek and English with an icon-only composer toolbar.</description>
+      <sparkle:version>192</sparkle:version>
+      <sparkle:shortVersionString>0.2.136</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.135-191/Mailday-0.2.135-191.zip" length="10262188" type="application/octet-stream" sparkle:edSignature="DBsYl7bp+rdjfBBo02QeWWiaDcLKIaDSiMjYQ/awMXX3Cfly/bftE2Q7yqXhkHsLnJz3kq7ACiyWpEcv19UHBQ=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.136-192/Mailday-0.2.136-192.zip" length="12626806" type="application/octet-stream" sparkle:edSignature="rRTMKiKpKFNhBZH04bJz6fpvLOPjTjQt05/ASpETSTqq9fzDPaR9+GThzXjoAJ1g8UGkk39HJb5tYbpKKy4iBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dd09l7J0VpTMouKSQpwGlS7wEtXpz7yWVIPK7olV2v4hB8RfNcoXUlqd7hNeEkCB7Kg+Ndfjfj52oMWIHyQnBQ==
-length: 1232
+edSignature: Y3E07pD1VS88hk979cE7w9rWO8IFMgCYCZcaPCNrXK3ePuP9jCkPTYi0xwTMGxkdmLCnXtp17ds/wO9i5W/7Cg==
+length: 1239
 -->
