@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.141 · build 197</title>
-      <pubDate>Thu, 12 Nov 2026 13:53:27 +0000</pubDate>
-      <description>Multi-day events and calmer Google rate-limit recovery.</description>
-      <sparkle:version>197</sparkle:version>
-      <sparkle:shortVersionString>0.2.141</sparkle:shortVersionString>
+      <title>Mailday 0.2.142 · build 198</title>
+      <pubDate>Sat, 14 Nov 2026 13:17:46 +0000</pubDate>
+      <description>Recognize PlayStation pre-order purchase receipts.</description>
+      <sparkle:version>198</sparkle:version>
+      <sparkle:shortVersionString>0.2.142</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.141-197/Mailday-0.2.141-197.zip" length="12662897" type="application/octet-stream" sparkle:edSignature="x9+5YzHvwzodIor6b0bIMbsWpCtQlFWrU4hSyefEbhFIQZTWwInToH5NPOplujkqJZDPZB+LFa3HmKL5jrt8Cg=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.142-198/Mailday-0.2.142-198.zip" length="12667783" type="application/octet-stream" sparkle:edSignature="xDmy6PBBUp5Mbr+npeW3AivpHC8mLEvJu+aPSn60PQHqL+4Ee5uo0m8Df3iEXQ4Kw1P2MOKlr2fr/D3Bz16xCQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6c9TtQQfPC1BQdsej4yD9ny0gjvkOu5poi9q+GQfwIAhB8QKoEyShEyQl23ebJaJ4058w3DZqDGwNSpeju28AQ==
-length: 1223
+edSignature: sNto74SX6b0Bx50LkmYjE1zG/MKLwk+/NLOHp0RR535uxNTncbghJa/s88KCyzwVH2FzeBMjQLc0R7SSoFJjCA==
+length: 1218
 -->
