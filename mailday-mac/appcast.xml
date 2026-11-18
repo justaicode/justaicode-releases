@@ -5,16 +5,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>Mailday for Mac</title>
     <link>https://justaicode.app/download/mailday</link>
     <item>
-      <title>Mailday 0.2.146 · build 202</title>
-      <pubDate>Tue, 17 Nov 2026 12:17:37 +0000</pubDate>
-      <description>Open calendar addresses in your choice of installed navigation apps.</description>
-      <sparkle:version>202</sparkle:version>
-      <sparkle:shortVersionString>0.2.146</sparkle:shortVersionString>
+      <title>Mailday 0.2.147 · build 203</title>
+      <pubDate>Wed, 18 Nov 2026 09:21:55 +0000</pubDate>
+      <description>Full date and time in email and conversation headers.</description>
+      <sparkle:version>203</sparkle:version>
+      <sparkle:shortVersionString>0.2.147</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.146-202/Mailday-0.2.146-202.zip" length="12717177" type="application/octet-stream" sparkle:edSignature="fYd+5Uj7U55IfnxzJgwPfDNHmR78BJBRcv+hs3/4jN2qIerMXFqUDBFpOSTn5jMTPfWuK6oNx//5gcsZVcoNCw=="></enclosure>
+      <enclosure url="https://github.com/justaicode/justaicode-releases/releases/download/mailday-mac-v0.2.147-203/Mailday-0.2.147-203.zip" length="12718577" type="application/octet-stream" sparkle:edSignature="BPRG8lKhCIVNhij7ql/bW237L/y3A7hRRedQYwVhZ0Zuu7UsNrqvyRk2rkAuca64g9V3UZb0o2m46JsAc/WsBg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: dBzbG+dnu3nwOHuj2kb8vzVJ9CnwlwntlNciwkKYl8xdhokfA+whXa6zm1RhinEh08hy0fruPeMaJPY3qFEgBg==
-length: 1236
+edSignature: 2doKiVoTzM5IxZ68eAHLXPW2zzanLQsomZD+8+pO/ifPn/0gW9HI7a1QsYj1riHWmjQHohesSsvMvBSZIQvvCQ==
+length: 1221
 -->
